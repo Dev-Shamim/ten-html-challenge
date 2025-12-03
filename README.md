@@ -4,4 +4,4 @@
 
 ### Email: shamimmian91@gmail.com
 
-[ LIVE URL:](https://dev-shamim.github.io/ten-html-challenge/)
+[ LIVE URL](https://dev-shamim.github.io/ten-html-challenge/)
